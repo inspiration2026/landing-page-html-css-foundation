@@ -73,7 +73,11 @@ button {
     background-color: #3882F6;
     color: #E5E7EB;
     font-weight: 700;
+    border: 2px solid #E5E7EB
 }
+    #first-button {
+        border-style: none;
+    }
 
 .mid-block {
     margin-left: 150px;
